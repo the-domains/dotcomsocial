@@ -1,0 +1,23 @@
+name: dotcomsocial
+favicon: null
+layout_spectrum: 0.5521012716926634
+typography_spectrum: 0.9120601466856897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.42679837462492287
+  lightness: 0.28923547780141234
+  saturation: 0.48718511941842735
+  rhythmicContrast: 0.9792042204644531
+purpose: []
